@@ -31,12 +31,18 @@ spring.datasource.username=root
 spring.datasource.password=123456
 spring.jpa.hibernate.ddl-auto=update
 
+---
+
 🐳 Subindo o MySQL com Docker
 Para iniciar o banco:
 docker-compose up -d
 
+---
+
 ▶️ Como rodar a API
 mvn spring-boot:run
+
+---
 
 🌐 Endpoints Principais
 
