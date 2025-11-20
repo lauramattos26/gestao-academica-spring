@@ -62,8 +62,12 @@ Faltas
 POST /faltas
 POST /faltas/justificar
 
+---
+
 🧪 Testes
 Para rodar os testes:
 mvn test
+
+---
 
  -Projeto desenvolvido por Laura Matos para fins acadêmicos.
