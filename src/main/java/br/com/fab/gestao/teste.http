@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/usuarios
+Content-Type: application/json
+
+{
+  "login": "teste",
+  "senha": "123",
+  "nome": "Usuario Teste",
+  "perfil": "ALUNO"
+}
